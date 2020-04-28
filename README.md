@@ -12,3 +12,4 @@ webhook test
 
 Maven Project in Jenkings tool
 deleted 2 lines
+Nexus config done
